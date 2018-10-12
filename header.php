@@ -8,5 +8,5 @@
             <a href="students.php">Home</a>
             <a href="addstudents.php">Add student</a>
             <a href="logout.php">Logout</a>
-            <a href="logout.php">check</a>
+            <a href="logout.php">check hn8un</a>
         </header>
